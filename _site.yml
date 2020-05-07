@@ -2,7 +2,7 @@ name: "Sandeep Test Website"
 navbar:
   title: "HOME"
   left:
-    - text: "first Page Sandeep"
+    - text: "first Page Sandeep123"
       href: first_observations.html
     - text: "Basic Workflow"
       href: basic_workflow.html
